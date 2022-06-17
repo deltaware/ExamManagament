@@ -6,12 +6,15 @@ Bu uygulama okullardaki, kurslardaki veya herhangi bir uygulama sınavını kola
 ## Ekran Görüntüleri
 
 **Ana Ekran**
+
 ![Ana Ekran](https://raw.githubusercontent.com/deltaware/ExamManagament/main/screenshots/Ekran%20görüntüsü%202022-06-17%20203736.png)
 
 **Bilgi Giriş**
+
 ![Bilgi Giriş](https://raw.githubusercontent.com/deltaware/ExamManagament/main/screenshots/Ekran%20görüntüsü%202022-06-17%20203810.png)
 
 **Sonuç** (Masaüstüne geliyor.)
+
 ![Sonuç](https://raw.githubusercontent.com/deltaware/ExamManagament/main/screenshots/Ekran%20görüntüsü%202022-06-17%20203912.png)
 
   
