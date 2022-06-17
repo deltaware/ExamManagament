@@ -1,0 +1,11 @@
+schoolName = "Mehmet Tuğrul Tekbulut Mesleki ve Teknik Anadolu Lisesi"
+
+[examInfo]
+name = "Nesne Tabanlı Programlama"
+creators = "Berivan TOLA, Hüsnü KÜÇÜKKÖYLÜ, Halil İbrahim ALTUNDAĞ"
+time = "120"
+
+[examLinks]
+firstLink = "https://github.com/deltaware/ExamManagament/releases/download/2.3/exam.zip"
+secondLink = ""
+thirdLink = ""
